@@ -1,14 +1,17 @@
 /*Estilo da página index.html*/
 .center {
     text-align: center;
+    color: aliceblue;
 }
 
 .justify {
     text-align: justify;
+    color: aliceblue;
 }
 
 body {
-    font-family: 'Roboto'
+    font-family: 'Roboto';
+    background-color: #1C2826;
 }
 
 .container {
@@ -55,6 +58,7 @@ body {
 
 .mb-50 {
     margin-bottom: 3em;
+    color: aliceblue;
 }
 
 /*Estilo da página contato.html*/
